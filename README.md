@@ -6,10 +6,14 @@ Homework is due the Monday before the next lesson at 12:00 and should be handed 
 
 ## Installation
 
-For beginners we recommend to use:
+For beginners we recommend to use both:
 
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
-- [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+- [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+
+Follow the steps for Anaconda Navigator under [installation](https://docs.anaconda.com/anaconda/navigator/install/). You can then install JupyterLab using the Anaconda navigator UI.
+
+If you're running into trouble, let us know in the Slack channel!
 
 If you're familiar with the command line, feel free to use `conda`:
 
