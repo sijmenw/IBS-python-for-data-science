@@ -11,13 +11,19 @@ For beginners we recommend to use:
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
 - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
+If you're familiair with the command line, feel free to use `conda`:
+
+- [Conda Commands](https://docs.conda.io/projects/conda/en/latest/commands.html)
+
 ## Pre-requisites
 
 Work through each of the lessons provided [here](https://github.com/sijmenw/learn-python3).
 
 ## Homework
 
-[week1](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week1)
+Links:
+
+- [Week 1](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week1)
 
 
 
