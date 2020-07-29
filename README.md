@@ -11,7 +11,7 @@ For beginners we recommend to use:
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
 - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 
-If you're familiair with the command line, feel free to use `conda`:
+If you're familiar with the command line, feel free to use `conda`:
 
 - [Conda Commands](https://docs.conda.io/projects/conda/en/latest/commands.html)
 
