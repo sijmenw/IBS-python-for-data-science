@@ -6,12 +6,24 @@ Homework is due the Monday before the next lesson at 12:00 and should be handed 
 
 ## Installation
 
+### Local installation (recommended)
+
 For beginners we recommend to use both:
 
 - [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
 - [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
 Follow the steps for Anaconda Navigator under [installation](https://docs.anaconda.com/anaconda/navigator/install/). You can then install JupyterLab using the Anaconda navigator UI.
+
+### Google Colab
+
+If a local installation is not working for you, we recommend to use [Google Colab](https://colab.research.google.com/#create=true). You can load this repo in Colab by following the menu:
+
+- File -> Open Notebook -> GitHub (https://github.com/sijmenw/IBS-python-for-data-science).
+- Select the notebook you would like to work on
+- Download the datafile using `!wget [url]`, i.e. for the pokemon.csv set:
+  - `!wget https://github.com/sijmenw/IBS-python-for-data-science/raw/master/homework/week1/pokemon.csv`
+- Download the notebook when you're done
 
 If you're running into trouble, let us know in the Slack channel!
 
