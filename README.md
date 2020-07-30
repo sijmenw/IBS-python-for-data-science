@@ -2,7 +2,9 @@
 
 This repository contains the homework and other course material for each of the lessons during the summer school.
 
-Homework is due the Monday before the next lesson at 12:00 and should be handed in by sending the completed notebooks directly to one of the teachers using the IBS Academy slack channel. Make sure you save the notebook **with** the output, **do not** clear your output before saving.
+Homework is due the Monday before the next lesson at 12:00 and should be handed in by sending the completed notebooks directly to one of the teachers using the IBS Academy slack channel.
+
+Make sure you save the notebook **with** the output, **do not** clear your output before saving.
 
 ## Installation
 
