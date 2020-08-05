@@ -2,7 +2,7 @@
 
 This repository contains the homework and other course material for each of the lessons during the summer school.
 
-Homework is due the Monday before the next lesson at 12:00 and should be handed in by sending the completed notebooks directly to one of the teachers using the IBS Academy slack channel.
+Homework is due the Monday before the next lesson at 12:00 and should be handed in by sending the completed notebooks directly to one of the teachers using the IBS Academy Slack.
 
 Make sure you save the notebook **with** the output, **do not** clear your output before saving.
 
@@ -25,7 +25,7 @@ If a local installation is not working for you, we recommend to use [Google Cola
 - Select the notebook you would like to work on
 - Download the datafile using `!wget [url]`, i.e. for the pokemon.csv set:
   - `!wget https://github.com/sijmenw/IBS-python-for-data-science/raw/master/homework/week1/pokemon.csv`
-- Worko n the notebook and download the notebook when you're done
+- Work on the notebook and download the notebook when you're done
 
 ### Conda
 
@@ -35,7 +35,7 @@ If you're familiar with the command line, feel free to use `conda`:
 
 ## Help through Slack
 
-If you're running into trouble, let us know in the Slack channel!
+If you're running into trouble, let us know in Slack!
 
 ## Pre-requisites
 
