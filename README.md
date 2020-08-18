@@ -46,6 +46,10 @@ Work through each of the lessons provided [here](https://github.com/sijmenw/lear
 Links:
 
 - [Week 1](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week1)
+- [Week 2](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week2)
+- [Week 3](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week3)
+
+
 
 
 

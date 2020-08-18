@@ -1,6 +1,6 @@
 # Homework week 3
 
-This week's homework is a Python exercise. If you hand it in, you will receive feedback for these exercises as well.
+This week's homework is a Python exercise. If you hand it in, you will receive feedback for this exercise.
 
 **NOTE:** You can now use any Python package you like.
 
