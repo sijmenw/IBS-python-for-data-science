@@ -49,6 +49,7 @@ Links:
 - [Week 2](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week2)
 - [Week 3](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week3)
 - [Week 4](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week4)
+- [Week 5](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week5)
 
 
 
