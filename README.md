@@ -50,6 +50,34 @@ Links:
 - [Week 3](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week3)
 - [Week 4](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week4)
 - [Week 5](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week5)
+- [Week 6](https://github.com/sijmenw/IBS-python-for-data-science/tree/master/homework/week6)
+
+## Exam
+
+The exam will be held in the NewRow environment you are familiar with from the classes.
+
+The exam will consist of three parts:
+
+- Presentation
+- Live coding
+- Questions
+
+For the presentation, you will receive a dataset that you need to work on, touching on each of the following topics:
+
+- EDA
+- Data engineering
+- Feature engineering
+- Machine learning
+- Evaluation
+- Discussion
+
+You are expected to cover each of these only shortly, no in-depth work is required.
+
+We encourage you to use the notebook you worked on for the presentation, when you do, use Markdown cells to divide the notebook into sections.
+
+The Slack channel is open for questions and further clarification.
+
+Good luck!
 
 
 
