@@ -1,3 +1,5 @@
+# Exam info; see below!
+
 # Isatis Business Solutions Summer School: Python for Data Science
 
 This repository contains the homework and other course material for each of the lessons during the summer school.
@@ -54,6 +56,8 @@ Links:
 
 ## Exam
 
+You can schedule the exam with the provided link (see Slack channel) when you've completed the homework.
+
 The exam will be held in the NewRow environment you are familiar with from the classes.
 
 The exam will consist of three parts:
@@ -62,7 +66,7 @@ The exam will consist of three parts:
 - Live coding
 - Questions
 
-For the presentation, you will receive a dataset that you need to work on, touching on each of the following topics:
+For the presentation, you will receive a dataset that you need to work on using a Jupyter notebook. In your work, touch on each of the following topics:
 
 - EDA
 - Data engineering
