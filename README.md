@@ -69,13 +69,17 @@ The exam will consist of three parts:
 For the presentation, you will receive a dataset that you need to work on using a Jupyter notebook. In your work, touch on each of the following topics:
 
 - EDA
+  - Exploratory data analysis - show some data aggregations and visualisations
 - Data engineering
+  - Fix data types, NaN values, etc.
 - Feature engineering
+  - Create a new feature (column) to enrich the data
 - Machine learning
+  - Train an algorithm to make a prediction based on the data
 - Evaluation
 - Discussion
 
-You are expected to cover each of these only shortly, no in-depth work is required.
+You are expected to cover each of these only shortly, no in-depth work is required. A suggestion for the first four steps is provided.
 
 We encourage you to use the notebook you worked on for the presentation, when you do, use Markdown cells to divide the notebook into sections.
 
